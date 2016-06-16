@@ -1,0 +1,24 @@
+{
+  "paths": {
+    "source": {
+      "root": "./source/",
+      "template": "./source/template/",
+      "styleguide": "./core/styleguide/",
+      "patternlabFiles": "./core/",
+      "jssrc": "./source/js/app",
+      "jsvendor": "./source/js/vendor",
+      "json": "./source/json",
+      "images": "./source/images"
+
+    },
+    "compiled": {
+      "root": "./compiled/",
+      "template": "./compiled/template/",
+      "styleguide": "./compiled/styleguide/",
+      "jssrc": "./compiled/js/app",
+      "jsvendor": "./compiled/js/vendor",
+      "json": "./compiled/json",
+      "images": "./compiled/images"
+    }
+  }
+}
