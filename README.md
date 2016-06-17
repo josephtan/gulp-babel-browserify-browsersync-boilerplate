@@ -3,11 +3,15 @@ A gulp ES6 babel transpiler, browserify and browsersync boilerplate
 
 #Usage
 
-Download the package json and the source folder from this repository.
+Download the package json and the source folder from this repository into your project folder.
 
 Keep all javascript files related to the project within the source/js/app folder while external libraries are source/js/vendor folder.
 
-Type in "gulp" to build your ES6 code and let gulp export it to the "compiled" folder.
+Access your project folder on the terminal command screen :
 
-Type in "gulp serve" to view your compiled code within browsersync server.
+- Type "gulp" to build your ES6 code and let gulp export it to the "compiled" folder.
+
+- Type in "gulp serve" to view your compiled js code within browsersync server.
+
+Have fun.
 
