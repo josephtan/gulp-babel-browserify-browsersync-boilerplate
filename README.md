@@ -15,4 +15,4 @@ Access your project folder on the terminal command screen :
 
 Have fun.
 
-Update: npm package available now as 'npm i gulp-es6-browserify-browsersync-boilerplate'
+Update: npm package available now as **'npm i gulp-es6-browserify-browsersync-boilerplate'**
