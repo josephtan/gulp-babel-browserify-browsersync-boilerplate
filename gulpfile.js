@@ -27,7 +27,6 @@ function paths() {
     return require('./config.json').paths;
 }
 
-
 function isProduction() {
     // Easier to modify in the future.
     return argv.production;
