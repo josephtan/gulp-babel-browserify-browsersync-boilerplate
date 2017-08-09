@@ -1,9 +1,9 @@
 # gulp--babel-browserify-browsersync-boilerplate
 A gulp ES6 babel transpiler, browserify and browsersync boilerplate
 
-###Usage
+### Usage
 
-Download the package json and the source folder from this repository into your project folder.
+Download the package json and the source folder from this repository into your project folder / type in 'npm i gulp-es6-browserify-browsersync-boilerplate' in your project folder
 
 Keep all javascript files related to the project within the source/js/app folder while external libraries are source/js/vendor folder.
 
@@ -15,3 +15,4 @@ Access your project folder on the terminal command screen :
 
 Have fun.
 
+Update: npm package available now as 'npm i gulp-es6-browserify-browsersync-boilerplate'
